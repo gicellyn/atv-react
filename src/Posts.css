@@ -1,0 +1,26 @@
+h2 {
+    margin-bottom: 12px;
+    text-align: center;
+    color: #080808d3;
+}
+
+p{
+    padding-bottom: 12px;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+    margin: auto;
+    display: block;
+}
+
+.postagem-corpo{
+    background-color: rgba(77, 204, 236, 0.226);
+    padding: 8px;
+    border: 5px solid rgba(33, 165, 132, 0.726);
+    border-radius: 5px;
+    width: 400px;
+    margin: 8px auto;
+
+}

@@ -1,0 +1,11 @@
+.rodape {
+    background-color: rgba(33, 165, 132, 0.726);
+    position: sticky;
+    bottom: 0;
+    width: 100%;
+    height: 40px; 
+}
+
+p{
+    padding-top: 10px;
+}
